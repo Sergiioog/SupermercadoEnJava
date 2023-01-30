@@ -385,7 +385,7 @@ package SupermercadoEnJava;
 						
 				System.out.println("**********MENÚ**********");
 				
-				System.out.println("1.Añadir productos del supermercado");
+				System.out.println("1.Ver productos del supermercado");
 				
 				System.out.println("2.Añadir productos al carrito");
 				
